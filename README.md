@@ -1,6 +1,35 @@
 # Refactoring of Self
-## Vaidehi Joshi
-### RedDotRubyConf 2015
+Written by Vaidehi Joshi for RedDotRubyConf 2015
+
+Ah, refactoring. Don't you love it? Or maybe...you hate it? No matter how you feel about it, we all end up doing it.
+
+I haven't been programming all that long. In fact, I started learning Ruby about a year ago. But, when it comes to refactoring, I, like many of you, have mixed emotions about it. 
+
+On the one hand, the idea of taking code you wrote (or often times as is the case for me, watching someone else take the code you wrote) and turn it into something so much more concise. Something cleaner. And clearer. And maybe even elegant? Well, watching all that unfold is pretty magical.
+
+But then again, we're developers. Which means that there's an inherent element of self-loathing and self-deprecation to refactoring. When you see someone else take your 10-line method and squeeze it into a single line...well, I don't know about you, but part of me dies inside. All I can think to myself is, "Why didn't I know to use that? Why isn't my code that good to begin with?"
+
+Here's the thing, though: all developers -- regardless of our skill levels -- refactor A LOT. And I'm not just talking about code. I'm talking about something bigger here. 
+
+This is a Ruby conference after all, so you probably know where I'm going with this. I'm talking about SELF.
+
+Self -- or, the current object, the object that is receiving whatever message you're sending it -- is always hanging around. And because Ruby is so fantastic, self is implicit. Which means that sometimes you can't see it. But it's always there, right?
+
+When we refactor our code, it's our code that's the implicit receiver of our actions. We are refactoring our code, so it's our code that changes.
+
+But what other kinds of refactoring do we do? Well, we refactor every day, whether we know it or not. On a deeper level, we're refactoring this: SELF.
+
+In our quest to be better programmers and to make our code more efficient, more readable, and more elegant, we try to learn as much as we can. In fact, that's the one thing we never stop doing: learning. We come together at workshops and conferences to both share and pick up new skills, tips, and tricks. We read about new technologies and figure out how to add them to our Toolbelt of Knowledge(tm). We obsess over new Ruby builds, and try to integrate all the newest methods at our fingertips into our codebase! And then we look back at what we've written, and our own mistakes, and pick it apart, and try to internalize everything that we've learned and implement in our code. 
+
+So...why do we do all of this? Because we all want to get better. We want to get better at this thing that we all have a shared love for. Or, in other words, we want to get to that perfect iteration of ourselves.
+
+Of course, just as it is with our code, we'll probably never get to that perfect iteration of self. We keep striving towards it, but we're probably never going to be completely satisfied with our product. Yet we ship the product everyday, right? We continue to show up, even with our imperfect code and imperfect selves, and keep deploying small tweaks, iterating quickly on who we are as programmers.
+
+We constantly continue to refactor ourselves as developers. And, as I've learned in my one year of programming, you can't always tell when the changes are occurring. But, self is always being affected in some way or another. 
+
+So now, when I look at my own code -- or when I watch someone else refactor my methods completely and simplify them into a single line -- well, it motivates me. It reminds me that I have a couple more iterations to go before I can be as good of a programmer as them. It's a reminder that even though I might not be great at refactoring my own code, in the process of becoming better, I am inherently working on refactoring myself.
+
+And at the end of the day, it's refactoring of self that's the most important type of refactoring that any of us can do.
 
 
 # reveal.js [![Build Status](https://travis-ci.org/hakimel/reveal.js.svg?branch=master)](https://travis-ci.org/hakimel/reveal.js)
