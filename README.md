@@ -21,7 +21,7 @@ But what other kinds of refactoring do we do? Well, we refactor every day, wheth
 
 In our quest to be better programmers and to make our code more efficient, more readable, and more elegant, we try to learn as much as we can. In fact, that's the one thing we never stop doing: learning. We come together at workshops and conferences to both share and pick up new skills, tips, and tricks. We read about new technologies and figure out how to add them to our Toolbelt of Knowledge(tm). We obsess over new Ruby builds, and try to integrate all the newest methods at our fingertips into our codebase! And then we look back at what we've written, and our own mistakes, and pick it apart, and try to internalize everything that we've learned and implement in our code. 
 
-So...why do we do all of this? Because we all want to get better. We want to get better at this thing that we all have a shared love for. Or, in other words, we want to get to that perfect iteration of ourselves.
+So...why do we do all of this? The answer is simple: because we all want to get better. We want to get better at this thing that we all have a shared love for. Or, in other words, we want to get to that perfect iteration of ourselves.
 
 Of course, just as it is with our code, we'll probably never get to that perfect iteration of self. We keep striving towards it, but we're probably never going to be completely satisfied with our product. Yet we ship the product everyday, right? We continue to show up, even with our imperfect code and imperfect selves, and keep deploying small tweaks, iterating quickly on who we are as programmers.
 
